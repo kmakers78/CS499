@@ -1,0 +1,24 @@
+MATH201,E1,Discrete Mathematics,Tom Joe,Monday-Wednesday,730-930am
+MATH201,E2,Discrete Mathematics,Tom Joe,Tuesday-Thursday,730-930am
+MATH201,E3,Discrete Mathematics,Tom Joe,Friday,730-1130am
+CSCI300,E1,Introduction to Algorithms,Joe Tom,Monday-Wednesday,930-1130am,CSCI200,MATH201
+CSCI300,E2,Introduction to Algorithms,Joe Tom,Tuesday-Thursday,930-1130am,CSCI200,MATH201
+CSCI300,E3,Introduction to Algorithms,Joe Tom,Friday,1130am-330pm,CSCI200,MATH201
+CSCI350,E1,Operating Systems,Will Bill,Tuesday-Thursday,730-930am,CSCI300
+CSCI350,E2,Operating Systems,Will Bill,Monday-Wednesday,730-930am,CSCI300
+CSCI350,E3,Operating Systems,Will Bill,Friday,730-1130am,CSCI300
+CSCI101,E1,Introduction to Programming in C++,Bill Will,Monday-Wednesday,730-930am,CSCI100
+CSCI101,E2,Introduction to Programming in C++,Bill Will,Tuesday-Thursday,730-930am,CSCI100
+CSCI101,E3,Introduction to Programming in C++,Bill Will,Friday,1130am-330pm,CSCI100
+CSCI100,E1,Introduction to Computer Science,Steve Austin,Tuesday-Thursday,730-930am
+CSCI100,E2,Introduction to Computer Science,Steve Austin,Monday-Wednesday,730-930am
+CSCI100,E3,Introduction to Computer Science,Steve Austin,Friday,730-1130am
+CSCI301,E1,Advanced Programming in C++,Austin Steve,Tuesday-Thursday,930-1130am,CSCI101
+CSCI301,E2,Advanced Programming in C++,Austin Steve,Monday-Wednesday,930-1130am,CSCI101
+CSCI301,E3,Advanced Programming in C++,Austin Steve,Friday,1130am-330pm,CSCI101
+CSCI400,E1,Large Software Development,Evelynn Rosann,Friday,730-1130am,CSCI301,CSCI350
+CSCI400,E2,Large Software Development,Evelynn Rosann,Wednesday,1130am-130pm,CSCI301,CSCI350
+CSCI400,E3,Large Software Development,Evelynn Rosann,Monday,1130am-130pm,CSCI301,CSCI350
+CSCI200,E1,Data Structures,Rosann Evelynn,Friday,1130am-330pm,CSCI101
+CSCI200,E2,Data Structures,Rosann Evelynn,Tuesday,1130am-130pm,CSCI101
+CSCI200,E3,Data Structures,Rosann Evelynn,Thursday,1130am-130pm,CSCI101

@@ -1,0 +1,11 @@
+MATH201,Discrete Mathematics,Tom Joe,Monday-Wednesday,730am-930am
+CSCI300,Introduction to Algorithms,Joe Tom,Monday-Wednesday,730-930am,CSCI200,MATH201
+CSCI350,Operating Systems,Will Bill,Monday-Wednesday,730-930am,CSCI300
+CSCI101,Introduction to Programming in C++,Bill Will,Monday-Wednesday,730-930am,CSCI100
+CSCI100,Introduction to Computer Science,Steve Austin,Monday-Wednesday,730-930am
+CSCI301,Advanced Programming in C++,Austin Steve,Monday-Wednesday,730-930am,CSCI101
+CSCI400,Large Software Development,Evelynn Rosann,Monday-Wednesday,730-930am,CSCI301,CSCI350
+CSCI200,Data Structures,Rosann Evelynn,Monday-Wednesday,730-930am,CSCI101
+
+//FIXME NEED TO MAKE MULTIPLE ENTRIES FOR DAYS/TIMES
+//REMOVE THESE COMMENTS WHEN DONE

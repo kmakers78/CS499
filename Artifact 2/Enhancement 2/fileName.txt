@@ -1,0 +1,8 @@
+MATH201Discrete MathematicsTom JoeMonday-Wednesday730am-930am
+CSCI300Introduction to AlgorithmsJoe TomMonday-Wednesday730-930am
+CSCI350Operating SystemsWill BillMonday-Wednesday730-930am
+CSCI101Introduction to Programming in C++Bill WillMonday-Wednesday730-930am
+CSCI100Introduction to Computer ScienceSteve AustinMonday-Wednesday730-930am
+CSCI301Advanced Programming in C++Austin SteveMonday-Wednesday730-930am
+CSCI400Large Software DevelopmentEvelynn RosannMonday-Wednesday730-930am
+CSCI200Data StructuresRosann EvelynnMonday-Wednesday730-930am
